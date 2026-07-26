@@ -4,7 +4,7 @@ Automated repository of accepted AtCoder solutions synced by **CF Auto Push**.
 
 ## 👤 AtCoder Profile Overview
 - **Handle:** [shajidulsobuj](https://atcoder.jp/users/shajidulsobuj)
-- **Total Solved Problems:** 7
+- **Total Solved Problems:** 8
 - **Last Synced:** 2026-07-26
 
 ## 📂 Contests Overview
@@ -18,3 +18,4 @@ Automated repository of accepted AtCoder solutions synced by **CF Auto Push**.
 | ABC046 | A | [abc046 a](https://atcoder.jp/contests/abc046/tasks/abc046_a) | C++23 (GCC 15.2.0) | [A_abc046_a.cpp](A_abc046_a.cpp) | 2026-07-26 |
 | ABC450 | A | [abc450 a](https://atcoder.jp/contests/abc450/tasks/abc450_a) | C++23 (GCC 15.2.0) | [A_abc450_a.cpp](A_abc450_a.cpp) | 2026-07-26 |
 | ABC454 | B | [abc454 b](https://atcoder.jp/contests/abc454/tasks/abc454_b) | C++23 (GCC 15.2.0) | [B_abc454_b.cpp](B_abc454_b.cpp) | 2026-07-26 |
+| ABC466 | D | [abc466 d](https://atcoder.jp/contests/abc466/tasks/abc466_d) | C++23 (GCC 15.2.0) | [D_abc466_d.cpp](D_abc466_d.cpp) | 2026-07-26 |
