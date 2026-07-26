@@ -1,0 +1,48 @@
+/*
+ * Codeforces Auto Push - Synced Solution
+ *
+ * Problem: 231A - Team
+ * Link: https://codeforces.com/contest/231/problem/A
+ * Submission ID: 383451531 (https://codeforces.com/contest/231/submission/383451531)
+ * Language: C++23 (GCC 14-64, msys2)
+ * Execution Time: 62 ms | Memory: 100 KB
+ * Verdict: OK
+ * Rating: 800 | Tags: brute force, greedy
+ * Submitted At: 2026-07-19 10:04:32 UTC
+ */
+
+#include <bits/stdc++.h>
+using namespace std;
+#define ll long long
+#define endl '\n'
+// cont int N = 1e5;
+
+
+
+void boom(){
+
+    int n; cin >> n;
+    int sum = 0;
+    for (int i=0;i<n;i++){
+        int x,y,z; cin >> x >> y >> z;
+        int t = (x+y+z);
+        if(t>=2) sum++;
+    }
+    cout << sum << endl;
+
+     
+}
+
+
+
+
+
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int t = 1;
+    // cin >> t;
+    while(t--)boom();
+    return 0;
+}
