@@ -7,7 +7,7 @@
 /**
  * Platform: VJudge (CodeChef)
  * Problem: EZSPEAK
- * Run ID: 71331197
+ * Run ID: 71331111
  * Synced via CF Auto Push
  */
 
