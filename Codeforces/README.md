@@ -4,18 +4,18 @@ Automated repository of accepted Codeforces solutions synced by **CF Auto Push**
 
 ## 👤 Codeforces Profile Overview
 - **Handle:** [shajidul-sobuj](https://codeforces.com/profile/shajidul-sobuj)
-- **Total Solved Problems:** 12
+- **Total Solved Problems:** 13
 - **Last Synced:** 2026-07-27
 
 ## 📊 Rating Breakdown
-- **800 - 1100:** 9
+- **800 - 1100:** 10
 - **1200 - 1399:** 0
 - **1400 - 1599:** 1
 - **1600 - 1899:** 0
 - **1900+:** 0
 
 ## 🏷️ Top Solved Topics
-`math` (6), `implementation` (6), `greedy` (5), `strings` (3), `number theory` (3), `constructive algorithms` (3), `sortings` (2), `dp` (2), `binary search` (1), `games` (1)
+`implementation` (7), `math` (6), `greedy` (5), `strings` (4), `number theory` (3), `constructive algorithms` (3), `sortings` (2), `dp` (2), `binary search` (1), `games` (1)
 
 ## 📂 Contests Overview
 
@@ -31,3 +31,4 @@ Automated repository of accepted Codeforces solutions synced by **CF Auto Push**
 | 8 | Educational Codeforces Round 44 (Rated for Div. 2) | 1 | 2026-07-27 | [Browse Folder](Educational_Codeforces_Round_44_(Rated_for_Div._2)) |
 | 9 | Codeforces Round 651 (Div. 2) | 1 | 2026-07-27 | [Browse Folder](Codeforces_Round_651_(Div._2)) |
 | 10 | VK Cup 2012 Qualification Round 1 | 1 | 2026-07-27 | [Browse Folder](VK_Cup_2012_Qualification_Round_1) |
+| 11 | Codeforces Beta Round 85 (Div. 2 Only) | 1 | 2026-07-27 | [Browse Folder](Codeforces_Beta_Round_85_(Div._2_Only)) |
