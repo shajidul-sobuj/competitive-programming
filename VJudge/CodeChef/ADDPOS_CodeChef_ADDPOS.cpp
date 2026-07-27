@@ -7,7 +7,7 @@
 /**
  * Platform: VJudge (CodeChef)
  * Problem: ADDPOS
- * Run ID: 71330856
+ * Run ID: 71330802
  * Synced via CF Auto Push
  */
 
