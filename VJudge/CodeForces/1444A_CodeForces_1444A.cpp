@@ -7,7 +7,7 @@
 /**
  * Platform: VJudge (CodeForces)
  * Problem: 1444A
- * Run ID: 71145397
+ * Run ID: 71145233
  * Synced via CF Auto Push
  */
 
