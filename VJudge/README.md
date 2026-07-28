@@ -16,5 +16,5 @@ Automated repository of accepted VJudge solutions synced by **CF Auto Push**.
 | CodeForces | 1A | [CodeForces_1A](https://vjudge.net/problem/CodeForces-1A) | GNU G++23 14.2 (64 bit, msys2) | [1A_CodeForces_1A.cpp](1A_CodeForces_1A.cpp) | 2026-07-28 |
 | CodeForces | 118A | [CodeForces_118A](https://vjudge.net/problem/CodeForces-118A) | GNU G++23 14.2 (64 bit, msys2) | [118A_CodeForces_118A.cpp](118A_CodeForces_118A.cpp) | 2026-07-28 |
 | CodeChef | TVDISC | [CodeChef_TVDISC](https://vjudge.net/problem/CodeChef-TVDISC) | C++ (gcc 13.2.0) | [TVDISC_CodeChef_TVDISC.cpp](TVDISC_CodeChef_TVDISC.cpp) | 2026-07-28 |
-| CodeChef | PUZHUNT | [CodeChef_PUZHUNT](https://vjudge.net/problem/CodeChef-PUZHUNT) | C++ (gcc 13.2.0) | [PUZHUNT_CodeChef_PUZHUNT.cpp](PUZHUNT_CodeChef_PUZHUNT.cpp) | 2026-07-28 |
-| CodeChef | NETFLIX | [CodeChef_NETFLIX](https://vjudge.net/problem/CodeChef-NETFLIX) | C++ (gcc 13.2.0) | [NETFLIX_CodeChef_NETFLIX.cpp](NETFLIX_CodeChef_NETFLIX.cpp) | 2026-07-28 |
+| CodeForces | 985A | [CodeForces_985A](https://vjudge.net/problem/CodeForces-985A) | C++23 (GCC 14-64, msys2) | [985A_CodeForces_985A.cpp](985A_CodeForces_985A.cpp) | 2026-07-28 |
+| CodeChef | P1209 | [CodeChef_P1209](https://vjudge.net/problem/CodeChef-P1209) | C++ (gcc 13.2.0) | [P1209_CodeChef_P1209.cpp](P1209_CodeChef_P1209.cpp) | 2026-07-28 |
