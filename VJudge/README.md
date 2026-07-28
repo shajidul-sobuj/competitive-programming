@@ -4,7 +4,7 @@ Automated repository of accepted VJudge solutions synced by **CF Auto Push**.
 
 ## 👤 VJudge Profile Overview
 - **Username:** [shajidulsobuj](https://vjudge.net/user/shajidulsobuj)
-- **Total Solved Problems:** 11
+- **Total Solved Problems:** 12
 - **Last Synced:** 2026-07-28
 
 ## 📂 Solved Problems Overview
@@ -22,3 +22,4 @@ Automated repository of accepted VJudge solutions synced by **CF Auto Push**.
 | CodeChef | LPC | [CodeChef_LPC](https://vjudge.net/problem/CodeChef-LPC) | C++ (gcc 13.2.0) | [LPC_CodeChef_LPC.cpp](LPC_CodeChef_LPC.cpp) | 2026-07-28 |
 | SPOJ | LIS2 | [SPOJ_LIS2](https://vjudge.net/problem/SPOJ-LIS2) | C++14 (gcc 8.3) | [LIS2_SPOJ_LIS2.cpp](LIS2_SPOJ_LIS2.cpp) | 2026-07-28 |
 | CodeForces | 1553D | [CodeForces_1553D](https://vjudge.net/problem/CodeForces-1553D) | GNU G++23 14.2 (64 bit, msys2) | [1553D_CodeForces_1553D.cpp](1553D_CodeForces_1553D.cpp) | 2026-07-28 |
+| CodeForces | 1A | [1A](https://vjudge.net/problem/CodeForces-1A) | GNU G++23 14.2 (64 bit, msys2) | [1A.cpp](1A.cpp) | 2026-07-28 |
