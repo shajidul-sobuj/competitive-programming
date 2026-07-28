@@ -7,7 +7,7 @@
 /**
  * Platform: VJudge (SPOJ)
  * Problem: LIS2
- * Run ID: 70567071
+ * Run ID: 70560846
  * Synced via CF Auto Push
  */
 
