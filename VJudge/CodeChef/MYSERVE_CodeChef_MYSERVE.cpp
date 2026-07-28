@@ -7,7 +7,7 @@
 /**
  * Platform: VJudge (CodeChef)
  * Problem: MYSERVE
- * Run ID: 71330562
+ * Run ID: 71330544
  * Synced via CF Auto Push
  */
 
