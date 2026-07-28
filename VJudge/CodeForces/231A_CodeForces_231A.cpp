@@ -7,7 +7,7 @@
 /**
  * Platform: VJudge (CodeForces)
  * Problem: 231A
- * Run ID: 71142818
+ * Run ID: 70891875
  * Synced via CF Auto Push
  */
 
