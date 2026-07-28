@@ -7,7 +7,7 @@
 /**
  * Platform: VJudge (AtCoder)
  * Problem: dp_a
- * Run ID: 70685043
+ * Run ID: 70684813
  * Synced via CF Auto Push
  */
 
