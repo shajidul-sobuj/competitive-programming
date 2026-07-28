@@ -21,4 +21,4 @@ Automated repository of accepted VJudge solutions synced by **CF Auto Push**.
 | EOlymp | 8656 | [EOlymp_8656](https://vjudge.net/problem/EOlymp-8656) | C++ 23 (gnu 14.2) | [8656_EOlymp_8656.cpp](8656_EOlymp_8656.cpp) | 2026-07-28 |
 | CodeChef | LPC | [CodeChef_LPC](https://vjudge.net/problem/CodeChef-LPC) | C++ (gcc 13.2.0) | [LPC_CodeChef_LPC.cpp](LPC_CodeChef_LPC.cpp) | 2026-07-28 |
 | SPOJ | LIS2 | [SPOJ_LIS2](https://vjudge.net/problem/SPOJ-LIS2) | C++14 (gcc 8.3) | [LIS2_SPOJ_LIS2.cpp](LIS2_SPOJ_LIS2.cpp) | 2026-07-28 |
-| CodeForces | 1A | [CodeForces_1A](https://vjudge.net/problem/CodeForces-1A) | GNU G++23 14.2 (64 bit, msys2) | [1A_CodeForces_1A.cpp](1A_CodeForces_1A.cpp) | 2026-07-28 |
+| CodeForces | 1553D | [CodeForces_1553D](https://vjudge.net/problem/CodeForces-1553D) | GNU G++23 14.2 (64 bit, msys2) | [1553D_CodeForces_1553D.cpp](1553D_CodeForces_1553D.cpp) | 2026-07-28 |
