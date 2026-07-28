@@ -7,7 +7,7 @@
 /**
  * Platform: VJudge (CodeChef)
  * Problem: LPC
- * Run ID: 70568627
+ * Run ID: 70568606
  * Synced via CF Auto Push
  */
 
