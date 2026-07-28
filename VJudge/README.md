@@ -4,7 +4,7 @@ Automated repository of accepted VJudge solutions synced by **CF Auto Push**.
 
 ## 👤 VJudge Profile Overview
 - **Username:** [shajidulsobuj](https://vjudge.net/user/shajidulsobuj)
-- **Total Solved Problems:** 8
+- **Total Solved Problems:** 9
 - **Last Synced:** 2026-07-28
 
 ## 📂 Solved Problems Overview
@@ -19,3 +19,4 @@ Automated repository of accepted VJudge solutions synced by **CF Auto Push**.
 | CodeForces | 985A | [CodeForces_985A](https://vjudge.net/problem/CodeForces-985A) | C++23 (GCC 14-64, msys2) | [985A_CodeForces_985A.cpp](985A_CodeForces_985A.cpp) | 2026-07-28 |
 | CodeChef | P1209 | [CodeChef_P1209](https://vjudge.net/problem/CodeChef-P1209) | C++ (gcc 13.2.0) | [P1209_CodeChef_P1209.cpp](P1209_CodeChef_P1209.cpp) | 2026-07-28 |
 | EOlymp | 8656 | [EOlymp_8656](https://vjudge.net/problem/EOlymp-8656) | C++ 23 (gnu 14.2) | [8656_EOlymp_8656.cpp](8656_EOlymp_8656.cpp) | 2026-07-28 |
+| CodeChef | LPC | [CodeChef_LPC](https://vjudge.net/problem/CodeChef-LPC) | C++ (gcc 13.2.0) | [LPC_CodeChef_LPC.cpp](LPC_CodeChef_LPC.cpp) | 2026-07-28 |
