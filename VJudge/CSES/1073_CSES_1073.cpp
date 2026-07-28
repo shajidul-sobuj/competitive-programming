@@ -7,7 +7,7 @@
 /**
  * Platform: VJudge (CSES)
  * Problem: 1073
- * Run ID: 70654075
+ * Run ID: 70654007
  * Synced via CF Auto Push
  */
 
