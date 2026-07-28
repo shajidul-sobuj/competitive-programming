@@ -4,18 +4,18 @@ Automated repository of accepted Codeforces solutions synced by **CF Auto Push**
 
 ## 👤 Codeforces Profile Overview
 - **Handle:** [shajidul-sobuj](https://codeforces.com/profile/shajidul-sobuj)
-- **Total Solved Problems:** 18
+- **Total Solved Problems:** 19
 - **Last Synced:** 2026-07-28
 
 ## 📊 Rating Breakdown
 - **800 - 1100:** 15
-- **1200 - 1399:** 0
+- **1200 - 1399:** 1
 - **1400 - 1599:** 1
 - **1600 - 1899:** 0
 - **1900+:** 0
 
 ## 🏷️ Top Solved Topics
-`implementation` (9), `math` (8), `greedy` (7), `strings` (5), `constructive algorithms` (4), `number theory` (3), `sortings` (3), `dp` (2), `binary search` (1), `games` (1)
+`implementation` (10), `math` (8), `greedy` (8), `strings` (5), `constructive algorithms` (4), `number theory` (3), `sortings` (3), `dp` (2), `binary search` (1), `games` (1)
 
 ## 📂 Contests Overview
 
@@ -36,3 +36,4 @@ Automated repository of accepted Codeforces solutions synced by **CF Auto Push**
 | 13 | Codeforces Round 267 (Div. 2) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Round_267_(Div._2)) |
 | 14 | Codeforces Round 1027 (Div. 3) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Round_1027_(Div._3)) |
 | 15 | Avito Code Challenge 2018 | 1 | 2026-07-28 | [Browse Folder](Avito_Code_Challenge_2018) |
+| 16 | Codeforces Round 966 (Div. 3) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Round_966_(Div._3)) |
