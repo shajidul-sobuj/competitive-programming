@@ -4,7 +4,7 @@ Automated repository of accepted VJudge solutions synced by **CF Auto Push**.
 
 ## 👤 VJudge Profile Overview
 - **Username:** [shajidulsobuj](https://vjudge.net/user/shajidulsobuj)
-- **Total Solved Problems:** 7
+- **Total Solved Problems:** 8
 - **Last Synced:** 2026-07-28
 
 ## 📂 Solved Problems Overview
@@ -18,3 +18,4 @@ Automated repository of accepted VJudge solutions synced by **CF Auto Push**.
 | CodeChef | TVDISC | [CodeChef_TVDISC](https://vjudge.net/problem/CodeChef-TVDISC) | C++ (gcc 13.2.0) | [TVDISC_CodeChef_TVDISC.cpp](TVDISC_CodeChef_TVDISC.cpp) | 2026-07-28 |
 | CodeForces | 985A | [CodeForces_985A](https://vjudge.net/problem/CodeForces-985A) | C++23 (GCC 14-64, msys2) | [985A_CodeForces_985A.cpp](985A_CodeForces_985A.cpp) | 2026-07-28 |
 | CodeChef | P1209 | [CodeChef_P1209](https://vjudge.net/problem/CodeChef-P1209) | C++ (gcc 13.2.0) | [P1209_CodeChef_P1209.cpp](P1209_CodeChef_P1209.cpp) | 2026-07-28 |
+| EOlymp | 8656 | [EOlymp_8656](https://vjudge.net/problem/EOlymp-8656) | C++ 23 (gnu 14.2) | [8656_EOlymp_8656.cpp](8656_EOlymp_8656.cpp) | 2026-07-28 |
