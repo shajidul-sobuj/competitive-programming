@@ -10,4 +10,4 @@ Automated repository of competitive programming solutions synced by **CF Auto Pu
 | 2 | 🟠 CodeChef | 0 | Never | [Browse CodeChef](CodeChef) |
  | 3 | 🔴 AtCoder | 8 | 2026-07-26 | [Browse AtCoder](AtCoder) | 
  | 4 | 🟡 LeetCode | 1 | 2026-07-26 | [Browse LeetCode](LeetCode) | 
- | 5 | 🔵 VJudge | 4 | 2026-07-28 | [Browse VJudge](VJudge) | 
+ | 5 | 🔵 VJudge | 5 | 2026-07-28 | [Browse VJudge](VJudge) | 
