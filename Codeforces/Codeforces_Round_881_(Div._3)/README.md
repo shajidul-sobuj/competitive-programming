@@ -7,3 +7,4 @@ Solutions for **Codeforces Round 881 (Div. 3)** on Codeforces.
 | Index | Problem Name | Rating | Tags | Language | Solution File | Date |
 |---|---|---|---|---|---|---|
 | C | [Sum in Binary Tree](https://codeforces.com/contest/1843/problem/C) | 800 | `bitmasks`, `combinatorics`, `math`, `trees` | C++23 (GCC 14-64, msys2) | [C_Sum_in_Binary_Tree.cpp](C_Sum_in_Binary_Tree.cpp) | 2026-07-28 |
+| B | [Long Long](https://codeforces.com/contest/1843/problem/B) | 800 | `greedy`, `math`, `two pointers` | C++23 (GCC 14-64, msys2) | [B_Long_Long.cpp](B_Long_Long.cpp) | 2026-07-28 |
