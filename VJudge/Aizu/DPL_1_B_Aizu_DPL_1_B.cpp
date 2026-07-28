@@ -7,7 +7,7 @@
 /**
  * Platform: VJudge (Aizu)
  * Problem: DPL_1_B
- * Run ID: 70633159
+ * Run ID: 70633153
  * Synced via CF Auto Push
  */
 
