@@ -7,7 +7,7 @@
 /**
  * Platform: VJudge (CodeChef)
  * Problem: QNOT
- * Run ID: 70810598
+ * Run ID: 70809672
  * Synced via CF Auto Push
  */
 
