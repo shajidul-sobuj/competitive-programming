@@ -15,7 +15,7 @@ Automated repository of accepted Codeforces solutions synced by **CF Auto Push**
 - **1900+:** 0
 
 ## 🏷️ Top Solved Topics
-`implementation` (12), `greedy` (11), `math` (10), `strings` (5), `constructive algorithms` (5), `sortings` (4), `number theory` (3), `dp` (2), `binary search` (2), `games` (1)
+`implementation` (13), `greedy` (11), `math` (9), `strings` (6), `constructive algorithms` (4), `sortings` (4), `number theory` (3), `dp` (2), `binary search` (2), `games` (1)
 
 ## 📂 Contests Overview
 
@@ -41,4 +41,4 @@ Automated repository of accepted Codeforces solutions synced by **CF Auto Push**
 | 18 | Codeforces Round 1098 (Div. 2) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Round_1098_(Div._2)) |
 | 19 | Codeforces Round 1084 (Div. 3) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Round_1084_(Div._3)) |
 | 20 | Codeforces Round 498 (Div. 3) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Round_498_(Div._3)) |
-| 21 | Codeforces Round 1096 (Div. 3) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Round_1096_(Div._3)) |
+| 21 | Codeforces Beta Round 55 (Div. 2) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Beta_Round_55_(Div._2)) |
