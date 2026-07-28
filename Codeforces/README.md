@@ -4,18 +4,18 @@ Automated repository of accepted Codeforces solutions synced by **CF Auto Push**
 
 ## 👤 Codeforces Profile Overview
 - **Handle:** [shajidul-sobuj](https://codeforces.com/profile/shajidul-sobuj)
-- **Total Solved Problems:** 26
+- **Total Solved Problems:** 27
 - **Last Synced:** 2026-07-28
 
 ## 📊 Rating Breakdown
-- **800 - 1100:** 21
+- **800 - 1100:** 22
 - **1200 - 1399:** 2
 - **1400 - 1599:** 1
 - **1600 - 1899:** 0
 - **1900+:** 0
 
 ## 🏷️ Top Solved Topics
-`implementation` (15), `greedy` (11), `math` (10), `strings` (6), `constructive algorithms` (4), `sortings` (4), `number theory` (3), `dp` (2), `binary search` (2), `games` (1)
+`implementation` (15), `greedy` (12), `math` (11), `strings` (6), `constructive algorithms` (4), `sortings` (4), `number theory` (3), `dp` (2), `binary search` (2), `games` (1)
 
 ## 📂 Contests Overview
 
@@ -44,3 +44,4 @@ Automated repository of accepted Codeforces solutions synced by **CF Auto Push**
 | 21 | Codeforces Beta Round 55 (Div. 2) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Beta_Round_55_(Div._2)) |
 | 22 | Educational Codeforces Round 66 (Rated for Div. 2) | 1 | 2026-07-28 | [Browse Folder](Educational_Codeforces_Round_66_(Rated_for_Div._2)) |
 | 23 | Codeforces Round 799 (Div. 4) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Round_799_(Div._4)) |
+| 24 | Codeforces Round 881 (Div. 3) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Round_881_(Div._3)) |
