@@ -7,3 +7,4 @@ Solutions for **Codeforces Round 898 (Div. 4)** on Codeforces.
 | Index | Problem Name | Rating | Tags | Language | Solution File | Date |
 |---|---|---|---|---|---|---|
 | F | [Money Trees](https://codeforces.com/contest/1873/problem/F) | 1300 | `binary search`, `greedy`, `math`, `two pointers` | C++23 (GCC 14-64, msys2) | [F_Money_Trees.cpp](F_Money_Trees.cpp) | 2026-07-28 |
+| D | [1D Eraser](https://codeforces.com/contest/1873/problem/D) | 800 | `greedy`, `implementation`, `two pointers` | C++23 (GCC 14-64, msys2) | [D_1D_Eraser.cpp](D_1D_Eraser.cpp) | 2026-07-28 |
