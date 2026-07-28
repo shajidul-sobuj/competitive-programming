@@ -7,7 +7,7 @@
 /**
  * Platform: VJudge (CodeForces)
  * Problem: 985A
- * Run ID: 70858680
+ * Run ID: 70858679
  * Synced via CF Auto Push
  */
 
