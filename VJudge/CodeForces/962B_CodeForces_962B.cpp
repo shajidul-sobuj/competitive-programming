@@ -7,7 +7,7 @@
 /**
  * Platform: VJudge (CodeForces)
  * Problem: 962B
- * Run ID: 70858337
+ * Run ID: 70858336
  * Synced via CF Auto Push
  */
 
