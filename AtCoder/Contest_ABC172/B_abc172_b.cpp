@@ -1,0 +1,22 @@
+/**
+ * Platform: AtCoder
+ * Problem: abc172 b
+ * Contest: ABC172
+ * URL: N/A
+ * Synced via SyncForge Extension
+ */
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    string s,t;
+    cin >> s >> t;
+    int count = 0;
+    for (int i=0;i<s.size();i++)
+    {
+        if (s[i]!=t[i]) count++;
+    }
+    cout << count << endl;
+    return 0;
+}
