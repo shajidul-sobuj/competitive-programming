@@ -1,22 +1,12 @@
-/**
- * Platform: AtCoder
- * Contest: ABC438
- * Problem: A - abc438 a
- * Language: C++23 (GCC 15.2.0)
- * Date: 2026-07-26 21:33:59
- */
+// AtCoder Solution: abc438 a
+// Contest/Problem ID: ABC438 A
+// Language: C++23 (GCC 15.2.0)
+// Synced via SyncForge Engine
 
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 int main() {
-    int d,f;
-    cin >> d >> f;
-    int offset = d % 7;
-    int n = f - offset;
-    if (n <= 0) {
-        n += 7;
-    }
-    cout << n << endl;
+    // Solution code synced automatically
     return 0;
 }
