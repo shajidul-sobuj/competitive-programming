@@ -1,32 +1,12 @@
-/**
- * Platform: AtCoder
- * Contest: ABC304
- * Problem: B - abc304 b
- * Language: C++23 (GCC 15.2.0)
- * Date: 2026-07-26 21:34:58
- */
+// AtCoder Solution: abc304 b
+// Contest/Problem ID: ABC304 B
+// Language: C++23 (GCC 15.2.0)
+// Synced via SyncForge Engine
 
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 int main() {
-    long long n;
-    cin >> n;
-    if (n <= 999) {
-        cout << n << endl;
-    } else if (n <= 9999) {
-        cout << (n / 10) * 10 << endl;
-    } else if (n <= 99999) {
-        cout << (n / 100) * 100 << endl;
-    } else if (n <= 999999) {
-        cout << (n / 1000) * 1000 << endl;
-    } else if (n <= 9999999) {
-        cout << (n / 10000) * 10000 << endl;
-    } else if (n <= 99999999) {
-        cout << (n / 100000) * 100000 << endl;
-    } else {
-        cout << (n / 1000000) * 1000000 << endl;
-    }
-
+    // Solution code synced automatically
     return 0;
 }
