@@ -1,49 +1,9 @@
-# 🟢 Codeforces Solutions Hub
+# Codeforces Solutions Repository
 
-Automated repository of accepted Codeforces solutions synced by **CF Auto Push**.
+Automated collection of accepted solutions synced via **SyncForge Developer OS**.
 
-## 👤 Codeforces Profile Overview
-- **Handle:** [shajidul-sobuj](https://codeforces.com/profile/shajidul-sobuj)
-- **Total Solved Problems:** 29
-- **Last Synced:** 2026-07-28
+### Stats
+- **Last Synced**: 7/30/2026, 10:18:23 PM
+- **Missing Files Added**: 8
 
-## 📊 Rating Breakdown
-- **800 - 1100:** 23
-- **1200 - 1399:** 2
-- **1400 - 1599:** 1
-- **1600 - 1899:** 1
-- **1900+:** 0
-
-## 🏷️ Top Solved Topics
-`implementation` (15), `greedy` (14), `math` (12), `strings` (6), `constructive algorithms` (6), `sortings` (4), `number theory` (3), `dp` (2), `binary search` (2), `games` (1)
-
-## 📂 Contests Overview
-
-| # | Contest Name | Solved Count | Last Solved | Contest Folder |
-|---|---|---|---|---|
- | 1 | Codeforces Round 577 (Div. 2) | 2 | 2026-07-26 | [Browse Folder](Codeforces_Round_577_(Div._2)) | 
- | 2 | Codeforces Round 1109 (Div. 3) | 2 | 2026-07-27 | [Browse Folder](Codeforces_Round_1109_(Div._3)) | 
-| 3 | Codeforces Round 1062 (Div. 4) | 1 | 2026-07-26 | [Browse Folder](Codeforces_Round_1062_(Div._4)) |
-| 4 | Codeforces Round 200 (Div. 2) | 1 | 2026-07-26 | [Browse Folder](Codeforces_Round_200_(Div._2)) |
-| 5 | Codeforces Round 1107 (Div. 3) | 1 | 2026-07-26 | [Browse Folder](Codeforces_Round_1107_(Div._3)) |
- | 6 | Educational Codeforces Round 161 (Rated for Div. 2) | 2 | 2026-07-28 | [Browse Folder](Educational_Codeforces_Round_161_(Rated_for_Div._2)) | 
-| 7 | Codeforces Round 640 (Div. 4) | 1 | 2026-07-27 | [Browse Folder](Codeforces_Round_640_(Div._4)) |
-| 8 | Educational Codeforces Round 44 (Rated for Div. 2) | 1 | 2026-07-27 | [Browse Folder](Educational_Codeforces_Round_44_(Rated_for_Div._2)) |
-| 9 | Codeforces Round 651 (Div. 2) | 1 | 2026-07-27 | [Browse Folder](Codeforces_Round_651_(Div._2)) |
-| 10 | VK Cup 2012 Qualification Round 1 | 1 | 2026-07-27 | [Browse Folder](VK_Cup_2012_Qualification_Round_1) |
-| 11 | Codeforces Beta Round 85 (Div. 2 Only) | 1 | 2026-07-27 | [Browse Folder](Codeforces_Beta_Round_85_(Div._2_Only)) |
-| 12 | Codeforces Round 1103 (Div. 3) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Round_1103_(Div._3)) |
-| 13 | Codeforces Round 267 (Div. 2) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Round_267_(Div._2)) |
-| 14 | Codeforces Round 1027 (Div. 3) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Round_1027_(Div._3)) |
-| 15 | Avito Code Challenge 2018 | 1 | 2026-07-28 | [Browse Folder](Avito_Code_Challenge_2018) |
-| 16 | Codeforces Round 966 (Div. 3) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Round_966_(Div._3)) |
-| 17 | Educational Codeforces Round 190 (Rated for Div. 2) | 1 | 2026-07-28 | [Browse Folder](Educational_Codeforces_Round_190_(Rated_for_Div._2)) |
-| 18 | Codeforces Round 1098 (Div. 2) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Round_1098_(Div._2)) |
-| 19 | Codeforces Round 1084 (Div. 3) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Round_1084_(Div._3)) |
-| 20 | Codeforces Round 498 (Div. 3) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Round_498_(Div._3)) |
-| 21 | Codeforces Beta Round 55 (Div. 2) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Beta_Round_55_(Div._2)) |
-| 22 | Educational Codeforces Round 66 (Rated for Div. 2) | 1 | 2026-07-28 | [Browse Folder](Educational_Codeforces_Round_66_(Rated_for_Div._2)) |
-| 23 | Codeforces Round 799 (Div. 4) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Round_799_(Div._4)) |
-| 24 | Codeforces Round 881 (Div. 3) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Round_881_(Div._3)) |
-| 25 | Codeforces Round 712 (Div. 1) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Round_712_(Div._1)) |
-| 26 | Codeforces Round 1090 (Div. 4) | 1 | 2026-07-28 | [Browse Folder](Codeforces_Round_1090_(Div._4)) |
+*Maintain your competitive programming streak effortlessly.*
